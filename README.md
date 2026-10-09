@@ -1,7 +1,7 @@
-<p align="center">Hi 👋, I'm Avijit Karmakar</p>
+<h1 align="center">Hi 👋, I'm Avijit Karmakar</h1>
 <hr>
 
-🎓 B.Tech CSE (AI & ML) Student | Aspiring AI Engineer
+<h3 align="center">🎓 B.Tech CSE (AI & ML) Student | Aspiring AI Engineer </h3>
 <hr> 
 
 I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Data Science. I enjoy learning new technologies and building projects that solve real-world problems.
