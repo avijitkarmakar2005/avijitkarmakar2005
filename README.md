@@ -1,19 +1,47 @@
-<h1 align="center">Hi 👋, I'm avijit karmakar</h1>
-<h3 align="center">I'm a B.Tech CSE(AI&ML) student| Aspiring AI Engineer| python| Machine Learning | Deep learning.</h3>
+Hi 👋, I'm Avijit Karmakar
+🎓 B.Tech CSE (AI & ML) Student | Aspiring AI Engineer
 
-- 🔭 I’m currently working on **Employee Attrition prediction**
+I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Data Science. I enjoy learning new technologies and building projects that solve real-world problems.
 
-- 🌱 I’m currently learning **Machine learning, Deep learning, Data science.**
+🔭 Currently working on Employee Attrition Prediction
+🌱 Learning Machine Learning, Deep Learning & Data Science
+🤖 Interested in AI Engineering and intelligent applications
+📫 Email: karmakaravijit642@gmail.com
+📸 Instagram: @myself_abhi0
+🛠️ Languages and Tools
 
-- 📫 How to reach me **karmakaravijit642@gmail.com**
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,linux,mongodb,mysql,tensorflow&perline=5" alt="Languages and tools" /> </p>
 
-- ⚡ Fun fact **I love learning new technologies and building AI projects.**
+<p align="center"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/myself_abhi0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myself_abhi0" height="30" width="40" /></a>
-</p>
+📊 GitHub Overview
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOURGITHUBUSERNAME&showicons=true&theme=tokyonight&hideborder=true&includeallcommits=true" alt="GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURGITHUBUSERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" /> </p>
+
+🔥 Contribution Streak
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=YOURGITHUBUSERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" /> </p>
+
+📈 Contribution Activity Graph
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURGITHUBUSERNAME&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" /> </p>
+
+🚀 Featured Project
+🧠 Employee Attrition Prediction
+
+A Machine Learning project focused on predicting employee attrition using employee-related data.
+
+📌 Goal: Predict whether an employee is likely to leave an organization.
+🐍 Technologies: Python, Pandas, Scikit-learn, Machine Learning
+📊 Focus: Data preprocessing, exploratory data analysis, feature engineering, and model evaluation.
+
+🔗 Project Repository: View Employee Attrition Prediction
+
+🌐 Connect With Me
+
+<p align="center"> <a href="https://instagram.com/myself_abhi0"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="mailto:karmakaravijit642@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> </p>
+
+<p align="center"> 💡 "Learning every day, building with purpose, and growing through code." </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOURGITHUBUSERNAME&style=flat-square&color=blue" alt="Profile views" /> </p>
 
