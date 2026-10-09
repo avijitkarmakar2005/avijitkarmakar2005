@@ -1,13 +1,22 @@
-Hi 👋, I'm Avijit Karmakar
+<p align="center">Hi 👋, I'm Avijit Karmakar</p>
+<hr>
+
 🎓 B.Tech CSE (AI & ML) Student | Aspiring AI Engineer
+<hr> 
 
 I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Data Science. I enjoy learning new technologies and building projects that solve real-world problems.
+<hr>
 
 🔭 Currently working on Employee Attrition Prediction
+
 🌱 Learning Machine Learning, Deep Learning & Data Science
+
 🤖 Interested in AI Engineering and intelligent applications
+
 📫 Email: karmakaravijit642@gmail.com
+
 📸 Instagram: @myself_abhi0
+
 🛠️ Languages and Tools
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,linux,mongodb,mysql,tensorflow&perline=5" alt="Languages and tools" /> </p>
